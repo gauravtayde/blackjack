@@ -1,0 +1,32 @@
+
+
+body{
+	
+	font-family:'trebuchet MS','lucida Grande';
+	font-weight:bold;
+	text-align: center;
+	background-image: url("lego.jpg");
+	background-size: cover;
+	color: white;
+	
+}
+h1{
+	color: red
+}
+button {
+	background-color: red;
+	padding: 7px;
+	width: 150px;
+	color: white;
+	border: none;
+	border-radius: 3px;
+	font-weight:bold;
+	margin: 2px;
+	
+}
+	
+
+#message-el {
+	font-size: 20px;
+	color: pink;
+}
